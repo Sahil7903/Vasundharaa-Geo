@@ -1,0 +1,5 @@
+{
+  "name": "Internship Task Suite",
+  "description": "A comprehensive React application showcasing 5 core frontend engineering tasks: Todo List, Form Validation, Progress Bars, Persisted Timer, and Live Search.",
+  "requestFramePermissions": []
+}
